@@ -17,6 +17,18 @@ This project reconciles customer orders, job costs, production activity and mach
 
 ![PrintWorks executive dashboard](dashboard.png)
 
+## Technical Skills Demonstrated
+
+- **Data Cleaning & Validation:** Identified missing cost matches, negative labour adjustments, quantity discrepancies and production-duration exceptions.
+- **Data Reconciliation:** Connected job orders, production logs and job costs using Job IDs.
+- **Spreadsheet Analytics:** Applied `IF`, `IFERROR`, `SUMIFS`, lookup functions, aggregation formulas and conditional calculations.
+- **Financial Analysis:** Evaluated quoted revenue, recorded production costs, indicative profit, margins and product profitability.
+- **Operational Analysis:** Calculated printing throughput, production hours and machine downtime.
+- **Data Visualization:** Developed an executive dashboard featuring KPIs, product profitability, downtime causes and cost composition.
+- **Business Intelligence:** Translated analytical findings into five evidence-based management recommendations.
+
+**Tools:** WPS Spreadsheets (Excel-compatible formulas and workbook).
+
 ## Business questions
 
 Which products drive indicative profitability? How does financial contribution relate to printing time? Which downtime causes dominate interruptions? What cost and production exceptions limit reporting reliability?
